@@ -1,0 +1,14 @@
+{
+  "appname": "app5",
+  "scope": "DevCenterImpersonate",
+  "clientid": "1FF5705E-7A41-411B-86AD-F205D508DB1D",
+  "buyerid": "test5",
+  "environment": "prod",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
